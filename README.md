@@ -1,3 +1,8 @@
 # git-hw-20250624
 
-## Running number ##
+
+
+## Simple ASCII Christmas tree with random decorations ##
+
+
+### Created by Sarah ###
